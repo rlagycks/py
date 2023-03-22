@@ -12,4 +12,4 @@ async def on_ready():
 async def hello(ctx):
     await ctx.send('Hello I am Bot!')
     
-app.run('MTA4ODEyNjc3Mjg2MTczOTEzOQ.GTK4Ir.1TPd-GnwMHhEM6xCkVuNXcBZrwOJIxMrgjdqbY')
+app.run('---')
